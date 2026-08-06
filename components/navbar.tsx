@@ -16,7 +16,7 @@ export default function Navbar() {
             Projects
           </div>
           <div className="font-medium hover:font-black ease-in-out duration-300 transition-all cursor-pointer">
-            Experiences
+            Experience
           </div>
           <div className="font-medium hover:font-black ease-in-out duration-300 transition-all cursor-pointer">
             Contact

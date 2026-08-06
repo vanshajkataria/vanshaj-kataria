@@ -7,7 +7,7 @@ export default function Experience() {
       <div className="w-full">
         <div className="mb-4">
           <h1 className="text-2xl xl:text-3xl 2xl:text-4xl font-black text-center">
-            Experiences
+            Experience
           </h1>
         </div>
         <div>
